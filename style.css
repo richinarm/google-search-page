@@ -146,6 +146,14 @@ input{
 
 }
 
+.footer-left{
+    margin-left: 20px;
+}
+
+.footer-right{
+    margin-right: 20px;
+}
+
 .footer .footer-left a{
     color: #4d5156;
     text-decoration: none;
